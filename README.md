@@ -1,5 +1,4 @@
 # instargram.css
-
 body{
     
     background-color: #F7F7F7 ;
